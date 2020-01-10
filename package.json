@@ -1,13 +1,12 @@
 {
   "name": "react-native-app-auth",
-  "version": "5.0.1-bakkt",
+  "version": "5.0.1-c",
   "description": "React Native bridge for AppAuth for supporting any OAuth 2 provider",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
     "test": "jest",
-    "lint": "eslint .",
-    "precommit": "lint-staged"
+    "lint": "eslint ."
   },
   "lint-staged": {
     "*.js": [

@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.source_files  = 'ios/**/*.{h,m}'
   s.requires_arc = true
   s.dependency 'React'
-  s.dependency 'AppAuth', '1.2.1'
+  s.dependency 'AppAuth', '1.3.0-1'
 end
